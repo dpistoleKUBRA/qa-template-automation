@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>VoiceBadActionForm</name>
+   <tag></tag>
+   <elementGuidId>d3b3e2a3-aea6-41a8-b7b4-f366d120c912</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id='blob-voice-bad-action-njk']//div[@role='presentation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@id='blob-voice-bad-action-njk']//div[@role='presentation']</value>
+   </webElementProperties>
+</WebElementEntity>

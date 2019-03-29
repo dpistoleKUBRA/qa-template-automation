@@ -1,0 +1,124 @@
+{
+  "assets": [
+    {
+      "id": "1001",
+      "latitude": 33.468867,
+      "longitude": -112.050206,
+      "metadata": {
+        "pole_number": "10100",
+        "division": "CENTRAL DIVISION",
+        "sub_division": "INVERNESS HIGHLANDS"
+      }
+    },
+    {
+      "id": "1002",
+      "latitude": 33.485190,
+      "longitude": -112.087285,
+      "metadata": {
+        "pole_number": "10200",
+        "division": "CENTRAL DIVISION",
+        "sub_division": "INVERNESS HIGHLANDS"
+      }
+    },
+    {
+      "id": "1003",
+      "latitude": 33.485190,
+      "longitude": -112.087285,
+      "metadata": {
+        "pole_number": "10300",
+        "division": "CENTRAL DIVISION",
+        "sub_division": "INVERNESS HIGHLANDS"
+      }
+    },
+    {
+      "id": "1004",
+      "latitude": 33.524982,
+      "longitude": -112.181355,
+      "metadata": {
+        "pole_number": "10400",
+        "division": "CENTRAL DIVISION",
+        "sub_division": "INVERNESS HIGHLANDS"
+      }
+    },
+    {
+      "id": "1005",
+      "latitude": 33.480322,
+      "longitude": -111.922490,
+      "metadata": {
+        "pole_number": "10500",
+        "division": "CENTRAL DIVISION",
+        "sub_division": "INVERNESS HIGHLANDS"
+      }
+    },
+    {
+      "id": "1006",
+      "latitude": 33.468580,
+      "longitude": -111.920086,
+      "metadata": {
+        "pole_number": "10600",
+        "division": "CENTRAL DIVISION",
+        "sub_division": "INVERNESS HIGHLANDS"
+      }
+    },
+    {
+      "id": "1007",
+      "latitude": 33.46653,
+      "longitude": -111.92245,
+      "metadata": {
+        "pole_number": "10700",
+        "division": "CENTRAL DIVISION",
+        "sub_division": "INVERNESS HIGHLANDS"
+      }
+    },
+    {
+      "id": "1008",
+      "latitude": 33.069633,
+      "longitude": -110.261267,
+      "metadata": {
+        "pole_number": "10800",
+        "division": "CENTRAL DIVISION",
+        "sub_division": "INVERNESS HIGHLANDS"
+      }
+    },
+    {
+      "id": "1009",
+      "latitude": 33.063568,
+      "longitude": -110.289686,
+      "metadata": {
+        "pole_number": "10900",
+        "division": "CENTRAL DIVISION",
+        "sub_division": "INVERNESS HIGHLANDS"
+      }
+    },
+    {
+      "id": "1010",
+      "latitude": 33.346959,
+      "longitude": -108.812970,
+      "metadata": {
+        "pole_number": "11000",
+        "division": "CENTRAL DIVISION",
+        "sub_division": "INVERNESS HIGHLANDS"
+      }
+    },
+    {
+      "id": "1011",
+      "latitude": 32.191540,
+      "longitude": -110.961272,
+      "metadata": {
+        "pole_number": "11100",
+        "division": "CENTRAL DIVISION",
+        "sub_division": "INVERNESS HIGHLANDS"
+      }
+    },
+    {
+      "id": "1012",
+      "latitude": 32.188264,
+      "longitude": -110.930306,
+      "metadata": {
+        "pole_number": "11200",
+        "division": "CENTRAL DIVISION",
+        "sub_division": "INVERNESS HIGHLANDS"
+      }
+    }
+  ]
+}

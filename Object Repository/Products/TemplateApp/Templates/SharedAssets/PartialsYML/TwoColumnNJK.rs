@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TwoColumnNJK</name>
+   <tag></tag>
+   <elementGuidId>e848e894-4e15-4eff-98c6-3ef0f78b49d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id='blob-two-column-njk']//span[@class='template-name']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@id='blob-two-column-njk']//span[@class='template-name']</value>
+   </webElementProperties>
+</WebElementEntity>

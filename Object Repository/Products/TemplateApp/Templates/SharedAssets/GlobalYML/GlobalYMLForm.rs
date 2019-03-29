@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GlobalYMLForm</name>
+   <tag></tag>
+   <elementGuidId>f93c1e5e-605e-4462-9483-2d5e5b7dfcf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id='blob-global-yml']//span[@class='template-name']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@id='blob-global-yml']//span[@class='template-name']</value>
+   </webElementProperties>
+</WebElementEntity>

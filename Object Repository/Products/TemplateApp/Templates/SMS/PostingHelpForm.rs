@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PostingHelpForm</name>
+   <tag></tag>
+   <elementGuidId>60491b2f-244d-4812-99ad-ac6cbb2c7060</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id='blob-posting-help-njk']//div[@role='presentation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@id='blob-posting-help-njk']//div[@role='presentation']</value>
+   </webElementProperties>
+</WebElementEntity>

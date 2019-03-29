@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PostingRegistrationAffirmationPreviewLink</name>
+   <tag></tag>
+   <elementGuidId>2188d8bb-40c8-4100-af27-b7acb634ba7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id='blob-posting-registration-affirmation-njk']//span[@class='templates-list-preview'][contains(text(),'Preview')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@id='blob-posting-registration-affirmation-njk']//span[@class='templates-list-preview'][contains(text(),'Preview')]</value>
+   </webElementProperties>
+</WebElementEntity>

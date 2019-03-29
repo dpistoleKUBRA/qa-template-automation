@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GABCMyprefsLink</name>
+   <tag></tag>
+   <elementGuidId>91e07ff7-bcdc-49d0-969b-c2a1b8cd05fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='assets-form-g_abc_myprefs_link-input']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='assets-form-g_abc_myprefs_link-input']</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,5561 @@
+{
+    "outages": [
+        {
+            "id": "8012472501",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8012472501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7010509201",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7010509201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4577224415",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4577224415",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "1010914600",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "1010914600",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8010359601",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8010359601",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "5036120023",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "5036120023",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "9603376301",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9603376301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "2628250012",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "2628250012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7011918303",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7011918303",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "9600496902",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9600496902",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4582852012",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4582852012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7012132501",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7012132501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "9600297002",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9600297002",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "3011053900",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "3011053900",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "1010243308",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "1010243308",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "5252340010",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "5252340010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8010305603",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8010305603",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "5261520010",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "5261520010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8558137710",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8558137710",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8012119201",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8012119201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4012051301",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4012051301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4010616501",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010616501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7446863013",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7446863013",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "3486340510",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "3486340510",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "9603351702",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9603351702",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4000047107",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000047107",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4010198804",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010198804",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "9600303002",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9600303002",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "9603140402",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9603140402",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "2644340013",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "2644340013",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "1011373404",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "1011373404",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8534235010",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-01",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2016-08-08T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8534235010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "1010004403",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "1010004403",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "3469880513",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "3469880513",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4011759902",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011759902",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7831396510",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7831396510",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4000110907",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000110907",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4000116404",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000116404",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4011572303",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011572303",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8011262201",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8011262201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8010791303",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8010791303",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8012806100",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8012806100",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "9604236101",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9604236101",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "2720181010",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "2720181010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7012665200",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7012665200",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8012437900",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8012437900",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "9603745301",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9603745301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8517090013",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8517090013",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "5253560011",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "5253560011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8013323903",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8013323903",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8010290602",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8010290602",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "2681670011",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "2681670011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "6511470011",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "6511470011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "1676170011",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "1676170011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8012000603",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8012000603",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4010874405",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010874405",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7805922512",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7805922512",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4010750301",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010750301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "5032865015",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "5032865015",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8561607011",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8561607011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7011546902",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7011546902",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7803940010",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7803940010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8546715023",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8546715023",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4011493001",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011493001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4605830010",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4605830010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7497964031",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7497964031",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "9602177402",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9602177402",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7441063524",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7441063524",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4010032001",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010032001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8012786703",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8012786703",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7462135011",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7462135011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4000338203",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000338203",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8011763802",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8011763802",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7012243306",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7012243306",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "5301463702",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "5301463702",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7441448517",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7441448517",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "9604186102",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9604186102",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8010240501",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8010240501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4011051107",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011051107",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7011099601",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7011099601",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "5163950010",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "5163950010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4010133606",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010133606",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "2619845012",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "2619845012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "4000337301",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000337301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "7800285016",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "7800285016",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8019341601",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8019341601",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8013809402",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8013809402",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "9601239902",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9601239902",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "5166280011",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "5166280011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8012540401",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8012540401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "2688800010",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "2688800010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "9602749501",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9602749501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "2613110011",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "2613110011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8011463102",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8011463102",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "8019395502",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-08",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2016-10-07T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "8019395502",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "1010914600",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-08",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2016-10-07T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "1010914600",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011764302",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011756711",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000034604",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000081503",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000031204",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000031304",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011088501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011089501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011089001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4012191002",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011323603",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011770702",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011762001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011761701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010293704",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011820100",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4522469010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4522465010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011907401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010636800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9604241301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642523516",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642722520",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010765801",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011455202",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4522467511",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011457201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011533800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010850800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010090001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011901100",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011770802",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011089402",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011089302",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4012138004",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4012142204",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011339602",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4012137804",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000030102",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011605401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000267201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189800",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-01",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-26T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "6010114000",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011842501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010681001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011106101",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642570012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642576011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000508001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642590011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642820011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010476700",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010600301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "154573",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-01",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2016-08-08T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "5301014701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "162348",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-08",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2016-10-07T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "1762650012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011605605",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000136108",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000136008",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000145906",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000267301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011707302",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4012189701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000040007",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011088802",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642855018",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011750202",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642605011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642830011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642722520",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010765801",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011089800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011842401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010662201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642522512",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4012057501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011941901",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010954200",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010473301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010955602",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011750202",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011842501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010872704",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642605011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642845011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4522465010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010098901",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "162348",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-08",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2016-10-07T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "1763865013",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4012178103",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011323905",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011668906",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011105003",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011105702",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011088401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011089101",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011605503",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011350002",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000077201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4012178301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4012138601",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9604241301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9604119701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010872704",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642791212",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011455202",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010244001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000407400",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642650010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011901100",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010991200",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "9604119701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642797513",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011089800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642715012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642792513",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010218502",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642570012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011941901",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011323703",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011756905",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4012189502",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011333707",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011339406",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011089206",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000039902",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011323803",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4000081901",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011769803",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-03",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-21T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011349902",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189800",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-01",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-07-26T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "6010114000",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4522460014",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642523516",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4012362701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642620011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011942001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4642850012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010943601",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010850800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010718903",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011211401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010891704",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010293704",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4522460014",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010681001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010244001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011820100",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011881700",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010662201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4011907401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010667203",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": true,
+            "crewStatus": "ENROUTE",
+            "crewIconIndicator": false,
+            "cause": "CODE-11",
+            "comments": null,
+            "etr": null,
+            "etrConfidence": null,
+            "startedAt": "2017-08-12T00:00:00",
+            "restoredAt": null,
+            "updatedAt": "2018-02-28T15:38:59.247",
+            "affectedDeliveryNodes": [
+                {
+                    "dnId": "4010955602",
+                    "confidence": "HIGH"
+                }
+            ]
+        }
+    ],
+    "restorations": [
+        {
+            "id": "369602",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012369602"
+                }
+            ]
+        },
+        {
+            "id": "421602",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013421602"
+                }
+            ]
+        },
+        {
+            "id": "899304",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8025899304"
+                }
+            ]
+        },
+        {
+            "id": "784001",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013784001"
+                }
+            ]
+        },
+        {
+            "id": "661401",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019661401"
+                }
+            ]
+        },
+        {
+            "id": "783601",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013783601"
+                }
+            ]
+        },
+        {
+            "id": "666201",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019666201"
+                }
+            ]
+        },
+        {
+            "id": "543201",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019543201"
+                }
+            ]
+        },
+        {
+            "id": "370103",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013370103"
+                }
+            ]
+        },
+        {
+            "id": "858804",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "9600858804"
+                }
+            ]
+        },
+        {
+            "id": "680802",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019680802"
+                }
+            ]
+        },
+        {
+            "id": "716702",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012716702"
+                }
+            ]
+        },
+        {
+            "id": "608204",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012608204"
+                }
+            ]
+        },
+        {
+            "id": "786801",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013786801"
+                }
+            ]
+        },
+        {
+            "id": "672601",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019672601"
+                }
+            ]
+        },
+        {
+            "id": "218101",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8026218101"
+                }
+            ]
+        },
+        {
+            "id": "792801",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013792801"
+                }
+            ]
+        },
+        {
+            "id": "837702",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8025837702"
+                }
+            ]
+        },
+        {
+            "id": "614302",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019614302"
+                }
+            ]
+        },
+        {
+            "id": "494602",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012494602"
+                }
+            ]
+        },
+        {
+            "id": "715402",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012715402"
+                }
+            ]
+        },
+        {
+            "id": "423904",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8011423904"
+                }
+            ]
+        },
+        {
+            "id": "656701",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019656701"
+                }
+            ]
+        },
+        {
+            "id": "016908",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012016908"
+                }
+            ]
+        },
+        {
+            "id": "763002",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8011763002"
+                }
+            ]
+        },
+        {
+            "id": "640304",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012640304"
+                }
+            ]
+        },
+        {
+            "id": "647801",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8010647801"
+                }
+            ]
+        },
+        {
+            "id": "827802",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013827802"
+                }
+            ]
+        },
+        {
+            "id": "195502",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012195502"
+                }
+            ]
+        },
+        {
+            "id": "807101",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8010807101"
+                }
+            ]
+        },
+        {
+            "id": "643402",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012643402"
+                }
+            ]
+        },
+        {
+            "id": "688201",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019688201"
+                }
+            ]
+        },
+        {
+            "id": "714902",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019714902"
+                }
+            ]
+        },
+        {
+            "id": "687001",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019687001"
+                }
+            ]
+        },
+        {
+            "id": "687101",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019687101"
+                }
+            ]
+        },
+        {
+            "id": "686201",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019686201"
+                }
+            ]
+        },
+        {
+            "id": "651901",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019651901"
+                }
+            ]
+        },
+        {
+            "id": "652001",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019652001"
+                }
+            ]
+        },
+        {
+            "id": "783701",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013783701"
+                }
+            ]
+        },
+        {
+            "id": "154202",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "9601154202"
+                }
+            ]
+        },
+        {
+            "id": "214701",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8026214701"
+                }
+            ]
+        },
+        {
+            "id": "218201",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8026218201"
+                }
+            ]
+        },
+        {
+            "id": "547202",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8011547202"
+                }
+            ]
+        },
+        {
+            "id": "619701",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013619701"
+                }
+            ]
+        },
+        {
+            "id": "649401",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019649401"
+                }
+            ]
+        },
+        {
+            "id": "593602",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012593602"
+                }
+            ]
+        },
+        {
+            "id": "687602",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019687602"
+                }
+            ]
+        },
+        {
+            "id": "000402",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013000402"
+                }
+            ]
+        },
+        {
+            "id": "561101",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012561101"
+                }
+            ]
+        },
+        {
+            "id": "606902",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019606902"
+                }
+            ]
+        },
+        {
+            "id": "220201",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8026220201"
+                }
+            ]
+        },
+        {
+            "id": "685402",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013685402"
+                }
+            ]
+        },
+        {
+            "id": "801001",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013801001"
+                }
+            ]
+        },
+        {
+            "id": "638501",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019638501"
+                }
+            ]
+        },
+        {
+            "id": "439202",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "9600439202"
+                }
+            ]
+        },
+        {
+            "id": "336802",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012336802"
+                }
+            ]
+        },
+        {
+            "id": "775202",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019775202"
+                }
+            ]
+        },
+        {
+            "id": "237003",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013237003"
+                }
+            ]
+        },
+        {
+            "id": "679501",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019679501"
+                }
+            ]
+        },
+        {
+            "id": "367504",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8011367504"
+                }
+            ]
+        },
+        {
+            "id": "668201",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019668201"
+                }
+            ]
+        },
+        {
+            "id": "669201",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019669201"
+                }
+            ]
+        },
+        {
+            "id": "669701",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019669701"
+                }
+            ]
+        },
+        {
+            "id": "788201",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013788201"
+                }
+            ]
+        },
+        {
+            "id": "223401",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8026223401"
+                }
+            ]
+        },
+        {
+            "id": "223201",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8026223201"
+                }
+            ]
+        },
+        {
+            "id": "620601",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013620601"
+                }
+            ]
+        },
+        {
+            "id": "305002",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013305002"
+                }
+            ]
+        },
+        {
+            "id": "620301",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013620301"
+                }
+            ]
+        },
+        {
+            "id": "225401",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8026225401"
+                }
+            ]
+        },
+        {
+            "id": "427302",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8011427302"
+                }
+            ]
+        },
+        {
+            "id": "213801",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8026213801"
+                }
+            ]
+        },
+        {
+            "id": "095702",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "9600095702"
+                }
+            ]
+        },
+        {
+            "id": "020302",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8010020302"
+                }
+            ]
+        },
+        {
+            "id": "797101",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013797101"
+                }
+            ]
+        },
+        {
+            "id": "784201",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013784201"
+                }
+            ]
+        },
+        {
+            "id": "386102",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "9601386102"
+                }
+            ]
+        },
+        {
+            "id": "782001",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013782001"
+                }
+            ]
+        },
+        {
+            "id": "398202",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012398202"
+                }
+            ]
+        },
+        {
+            "id": "304302",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012304302"
+                }
+            ]
+        },
+        {
+            "id": "325801",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012325801"
+                }
+            ]
+        },
+        {
+            "id": "778201",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013778201"
+                }
+            ]
+        },
+        {
+            "id": "806201",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013806201"
+                }
+            ]
+        },
+        {
+            "id": "675001",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019675001"
+                }
+            ]
+        },
+        {
+            "id": "151602",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "9601151602"
+                }
+            ]
+        },
+        {
+            "id": "669501",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019669501"
+                }
+            ]
+        },
+        {
+            "id": "166501",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8012166501"
+                }
+            ]
+        },
+        {
+            "id": "771203",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013771203"
+                }
+            ]
+        },
+        {
+            "id": "234801",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8026234801"
+                }
+            ]
+        },
+        {
+            "id": "377403",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8010377403"
+                }
+            ]
+        },
+        {
+            "id": "801801",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013801801"
+                }
+            ]
+        },
+        {
+            "id": "804601",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013804601"
+                }
+            ]
+        },
+        {
+            "id": "207901",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8026207901"
+                }
+            ]
+        },
+        {
+            "id": "210601",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8026210601"
+                }
+            ]
+        },
+        {
+            "id": "749401",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013749401"
+                }
+            ]
+        },
+        {
+            "id": "650301",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019650301"
+                }
+            ]
+        },
+        {
+            "id": "787901",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013787901"
+                }
+            ]
+        },
+        {
+            "id": "787701",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013787701"
+                }
+            ]
+        },
+        {
+            "id": "787801",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8013787801"
+                }
+            ]
+        },
+        {
+            "id": "560902",
+            "restorationConfidence": "HIGH",
+            "restoredDeliveryNodes": [
+                {
+                    "dnId": "8019560902"
+                }
+            ]
+        }
+    ]
+}

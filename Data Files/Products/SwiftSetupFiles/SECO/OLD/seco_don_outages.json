@@ -1,0 +1,22 @@
+{
+    "outages": [
+{
+    "id": "O-SECO01",
+    "outageConfirmed": true,
+    "crewStatus": "ONSITE",
+    "crewIconIndicator": false,
+    "cause": "Branch On Line",
+    "comments": "Some Comment",
+    "etr": "2025-04-06T12:20:06.974Z",
+    "etrType": "HIGH",
+    "startedAt": "2017-04-02T17:27:06.974Z",
+    "restoredAt": null,
+    "updatedAt": "2017-04-05T17:27:06.974Z",
+    "affectedDeliveryNodes": [
+        {
+            "dnId": "SECO01"
+        }
+    ]
+}
+]
+}

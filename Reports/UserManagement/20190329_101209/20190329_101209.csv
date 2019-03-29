@@ -1,0 +1,100 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+UserManagement,Firefox 65.0,,2019-03-29 10:12:20,2019-03-29 10:15:30,3m - 9.699s,FAILED
+,,,,,,
+Test Cases/Products/UserManagement/CreateUser,Firefox 65.0,,2019-03-29 10:12:21,2019-03-29 10:12:54,33.519s,PASSED
+"comment(""Open browser to User Management App. and Create User"")",Firefox 65.0,,2019-03-29 10:12:21,2019-03-29 10:12:21,0.080s,PASSED
+"callTestCase(findTestCase(""Products/Cerberus/Login-Logout/UserMgmtLoginNC""), [:], STOP_ON_FAILURE)",Firefox 65.0,,2019-03-29 10:12:21,2019-03-29 10:12:43,22.500s,PASSED
+waitForPageLoad(G_ShortTimeout),Firefox 65.0,,2019-03-29 10:12:43,2019-03-29 10:12:43,0.011s,PASSED
+"comment(""Create User"")",Firefox 65.0,,2019-03-29 10:12:43,2019-03-29 10:12:43,0.001s,PASSED
+"verifyTextPresent(""User Management Dashboard"", false)",Firefox 65.0,,2019-03-29 10:12:43,2019-03-29 10:12:43,0.061s,PASSED
+"waitForElementClickable(findTestObject(""Products/UserManagement/CreateUserAccount""), 15)",Firefox 65.0,,2019-03-29 10:12:43,2019-03-29 10:12:44,0.023s,PASSED
+"click(findTestObject(""Products/UserManagement/CreateUserAccount""))",Firefox 65.0,,2019-03-29 10:12:44,2019-03-29 10:12:44,0.258s,PASSED
+"verifyTextPresent(""Create User Account"", false)",Firefox 65.0,,2019-03-29 10:12:44,2019-03-29 10:12:44,0.086s,PASSED
+"waitForElementClickable(findTestObject(""Products/UserManagement/Name""), 15)",Firefox 65.0,,2019-03-29 10:12:44,2019-03-29 10:12:44,0.022s,PASSED
+"setText(findTestObject(""Products/UserManagement/Name""), ""01-QAUser99"")",Firefox 65.0,,2019-03-29 10:12:44,2019-03-29 10:12:44,0.198s,PASSED
+"setText(findTestObject(""Products/UserManagement/Email""), ""01qauser99@kubra.com"")",Firefox 65.0,,2019-03-29 10:12:44,2019-03-29 10:12:44,0.142s,PASSED
+"setEncryptedText(findTestObject(""Products/UserManagement/Password""), ""ondo5HWRPO/HqnDYAr/Deg=="")",Firefox 65.0,,2019-03-29 10:12:44,2019-03-29 10:12:44,0.119s,PASSED
+"setEncryptedText(findTestObject(""Products/UserManagement/PasswordConfirmation""), ""ondo5HWRPO/HqnDYAr/Deg=="")",Firefox 65.0,,2019-03-29 10:12:44,2019-03-29 10:12:44,0.069s,PASSED
+"click(findTestObject(""Products/UserManagement/SelectPermissions""))",Firefox 65.0,,2019-03-29 10:12:44,2019-03-29 10:12:45,0.242s,PASSED
+delay(4),Firefox 65.0,,2019-03-29 10:12:45,2019-03-29 10:12:49,4.007s,PASSED
+"click(findTestObject(""Products/UserManagement/StormCenterInstanceAdmin""))",Firefox 65.0,,2019-03-29 10:12:49,2019-03-29 10:12:49,0.237s,PASSED
+"click(findTestObject(""Products/UserManagement/SaveButton""))",Firefox 65.0,,2019-03-29 10:12:49,2019-03-29 10:12:49,0.255s,PASSED
+"waitForElementClickable(findTestObject(""Products/UserManagement/CreateUserAccount""), 15)",Firefox 65.0,,2019-03-29 10:12:49,2019-03-29 10:12:50,0.531s,PASSED
+"verifyTextPresent(""Manage Users"", false)",Firefox 65.0,,2019-03-29 10:12:50,2019-03-29 10:12:50,0.060s,PASSED
+closeBrowser(),Firefox 65.0,,2019-03-29 10:12:50,2019-03-29 10:12:50,0.476s,PASSED
+delay(4),Firefox 65.0,,2019-03-29 10:12:50,2019-03-29 10:12:54,4.002s,PASSED
+,,,,,,
+Test Cases/Products/UserManagement/ExistingUser,Firefox 65.0,,2019-03-29 10:12:54,2019-03-29 10:13:19,25.046s,PASSED
+"comment(""Open browser to User Management App. and Create User"")",Firefox 65.0,,2019-03-29 10:12:54,2019-03-29 10:12:54,0.002s,PASSED
+"callTestCase(findTestCase(""Products/Cerberus/Login-Logout/UserMgmtLoginNC""), [:], STOP_ON_FAILURE)",Firefox 65.0,,2019-03-29 10:12:54,2019-03-29 10:13:16,21.344s,PASSED
+waitForPageLoad(G_ShortTimeout),Firefox 65.0,,2019-03-29 10:13:16,2019-03-29 10:13:16,0.011s,PASSED
+"comment(""Create User"")",Firefox 65.0,,2019-03-29 10:13:16,2019-03-29 10:13:16,0.002s,PASSED
+"verifyTextPresent(""User Management Dashboard"", false)",Firefox 65.0,,2019-03-29 10:13:16,2019-03-29 10:13:16,0.064s,PASSED
+delay(2),Firefox 65.0,,2019-03-29 10:13:16,2019-03-29 10:13:18,2.003s,PASSED
+"click(findTestObject(""Products/UserManagement/CreateUserAccount""))",Firefox 65.0,,2019-03-29 10:13:18,2019-03-29 10:13:18,0.268s,PASSED
+"verifyTextPresent(""Create User Account"", false)",Firefox 65.0,,2019-03-29 10:13:18,2019-03-29 10:13:18,0.085s,PASSED
+"waitForElementClickable(findTestObject(""Products/UserManagement/Name""), 15)",Firefox 65.0,,2019-03-29 10:13:18,2019-03-29 10:13:18,0.025s,PASSED
+"setText(findTestObject(""Products/UserManagement/Name""), ""01-QAUser99"")",Firefox 65.0,,2019-03-29 10:13:18,2019-03-29 10:13:18,0.202s,PASSED
+"setText(findTestObject(""Products/UserManagement/Email""), ""01qauser99@kubra.com"")",Firefox 65.0,,2019-03-29 10:13:18,2019-03-29 10:13:18,0.164s,PASSED
+"verifyTextPresent(""This user already exists"", false)",Firefox 65.0,,2019-03-29 10:13:18,2019-03-29 10:13:19,0.070s,PASSED
+"click(findTestObject(""Products/UserManagement/CancelButton""))",Firefox 65.0,,2019-03-29 10:13:19,2019-03-29 10:13:19,0.243s,PASSED
+closeBrowser(),Firefox 65.0,,2019-03-29 10:13:19,2019-03-29 10:13:19,0.471s,PASSED
+,,,,,,
+Test Cases/Products/UserManagement/EditUser,Firefox 65.0,,2019-03-29 10:13:19,2019-03-29 10:14:23,1m - 3.388s,FAILED
+"comment(""Open browser to User Management App. and Create User"")",Firefox 65.0,,2019-03-29 10:13:19,2019-03-29 10:13:19,0.001s,PASSED
+"callTestCase(findTestCase(""Products/Cerberus/Login-Logout/UserMgmtLoginNC""), [:], STOP_ON_FAILURE)",Firefox 65.0,,2019-03-29 10:13:19,2019-03-29 10:13:40,20.400s,PASSED
+waitForPageLoad(G_ShortTimeout),Firefox 65.0,,2019-03-29 10:13:40,2019-03-29 10:13:40,0.009s,PASSED
+"comment(""Create User"")",Firefox 65.0,,2019-03-29 10:13:40,2019-03-29 10:13:40,0.001s,PASSED
+"verifyTextPresent(""User Management Dashboard"", false)",Firefox 65.0,,2019-03-29 10:13:40,2019-03-29 10:13:40,0.060s,PASSED
+"waitForElementClickable(findTestObject(""Products/UserManagement/ManageUsers""), 15)",Firefox 65.0,,2019-03-29 10:13:40,2019-03-29 10:13:40,0.022s,PASSED
+"click(findTestObject(""Products/UserManagement/ManageUsers""))",Firefox 65.0,,2019-03-29 10:13:40,2019-03-29 10:13:40,0.242s,PASSED
+"verifyTextPresent(""Select a username below to edit contact information"", false)",Firefox 65.0,,2019-03-29 10:13:40,2019-03-29 10:13:40,0.044s,PASSED
+"waitForElementClickable(findTestObject(""Products/UserManagement/01-qa-user-99EditButton""), 15)",Firefox 65.0,,2019-03-29 10:13:40,2019-03-29 10:13:41,0.528s,PASSED
+"click(findTestObject(""Products/UserManagement/01-qa-user-99EditButton""))",Firefox 65.0,,2019-03-29 10:13:41,2019-03-29 10:13:41,0.249s,PASSED
+"setEncryptedText(findTestObject(""Products/UserManagement/Password""), ""lyykIguZc/Njb1wKikF68Q=="")",Firefox 65.0,,2019-03-29 10:13:41,2019-03-29 10:13:42,0.636s,PASSED
+"setEncryptedText(findTestObject(""Products/UserManagement/PasswordConfirmation""), ""lyykIguZc/Njb1wKikF68Q=="")",Firefox 65.0,,2019-03-29 10:13:42,2019-03-29 10:13:42,0.094s,PASSED
+delay(5),Firefox 65.0,,2019-03-29 10:13:42,2019-03-29 10:13:47,5.005s,PASSED
+"click(findTestObject(""Products/UserManagement/SelectPermissions""))",Firefox 65.0,,2019-03-29 10:13:47,2019-03-29 10:13:47,0.240s,PASSED
+delay(5),Firefox 65.0,,2019-03-29 10:13:47,2019-03-29 10:13:52,5.003s,PASSED
+"click(findTestObject(""Products/UserManagement/StormCenterInstanceAdmin""))",Firefox 65.0,,2019-03-29 10:13:52,2019-03-29 10:14:23,30.769s,FAILED
+,,,,,,
+Test Cases/Products/UserManagement/EditExistingUser,Firefox 65.0,,2019-03-29 10:14:23,2019-03-29 10:15:02,39.007s,PASSED
+"comment(""Open browser to User Management App. and Create User"")",Firefox 65.0,,2019-03-29 10:14:23,2019-03-29 10:14:23,0.002s,PASSED
+"callTestCase(findTestCase(""Products/Cerberus/Login-Logout/UserMgmtLoginNC""), [:], STOP_ON_FAILURE)",Firefox 65.0,,2019-03-29 10:14:23,2019-03-29 10:14:45,22.456s,PASSED
+waitForPageLoad(G_ShortTimeout),Firefox 65.0,,2019-03-29 10:14:45,2019-03-29 10:14:45,0.011s,PASSED
+"comment(""Create User"")",Firefox 65.0,,2019-03-29 10:14:45,2019-03-29 10:14:45,0.001s,PASSED
+"verifyTextPresent(""User Management Dashboard"", false)",Firefox 65.0,,2019-03-29 10:14:45,2019-03-29 10:14:45,0.063s,PASSED
+delay(2),Firefox 65.0,,2019-03-29 10:14:45,2019-03-29 10:14:47,2.002s,PASSED
+"click(findTestObject(""Products/UserManagement/CreateUserAccount""))",Firefox 65.0,,2019-03-29 10:14:47,2019-03-29 10:14:48,0.262s,PASSED
+"verifyTextPresent(""Create User Account"", false)",Firefox 65.0,,2019-03-29 10:14:48,2019-03-29 10:14:48,0.085s,PASSED
+"waitForElementClickable(findTestObject(""Products/UserManagement/Name""), 15)",Firefox 65.0,,2019-03-29 10:14:48,2019-03-29 10:14:48,0.024s,PASSED
+"setText(findTestObject(""Products/UserManagement/Name""), ""01-QAUser99"")",Firefox 65.0,,2019-03-29 10:14:48,2019-03-29 10:14:48,0.199s,PASSED
+"setText(findTestObject(""Products/UserManagement/Email""), ""01qauser99@kubra.com"")",Firefox 65.0,,2019-03-29 10:14:48,2019-03-29 10:14:48,0.145s,PASSED
+"click(findTestObject(""Products/UserManagement/EditUserButton""))",Firefox 65.0,,2019-03-29 10:14:48,2019-03-29 10:14:48,0.252s,PASSED
+delay(2),Firefox 65.0,,2019-03-29 10:14:48,2019-03-29 10:14:50,2.003s,PASSED
+"setEncryptedText(findTestObject(""Products/UserManagement/Password""), ""lyykIguZc/Njb1wKikF68Q=="")",Firefox 65.0,,2019-03-29 10:14:50,2019-03-29 10:14:50,0.102s,PASSED
+"setEncryptedText(findTestObject(""Products/UserManagement/PasswordConfirmation""), ""lyykIguZc/Njb1wKikF68Q=="")",Firefox 65.0,,2019-03-29 10:14:50,2019-03-29 10:14:50,0.097s,PASSED
+delay(5),Firefox 65.0,,2019-03-29 10:14:50,2019-03-29 10:14:55,5.006s,PASSED
+"click(findTestObject(""Products/UserManagement/SaveButton""))",Firefox 65.0,,2019-03-29 10:14:55,2019-03-29 10:14:56,0.284s,PASSED
+"waitForElementClickable(findTestObject(""Products/UserManagement/CreateUserAccount""), 5)",Firefox 65.0,,2019-03-29 10:14:56,2019-03-29 10:15:01,5.113s,PASSED
+"verifyTextPresent(""Manage Users"", false)",Firefox 65.0,,2019-03-29 10:15:01,2019-03-29 10:15:01,0.343s,PASSED
+closeBrowser(),Firefox 65.0,,2019-03-29 10:15:01,2019-03-29 10:15:02,0.467s,PASSED
+,,,,,,
+Test Cases/Products/UserManagement/DeleteUser,Firefox 65.0,,2019-03-29 10:15:02,2019-03-29 10:15:30,28.493s,PASSED
+"comment(""Open browser to User Management App. and Create User"")",Firefox 65.0,,2019-03-29 10:15:02,2019-03-29 10:15:02,0.002s,PASSED
+"callTestCase(findTestCase(""Products/Cerberus/Login-Logout/UserMgmtLoginNC""), [:], STOP_ON_FAILURE)",Firefox 65.0,,2019-03-29 10:15:02,2019-03-29 10:15:24,21.752s,PASSED
+waitForPageLoad(G_ShortTimeout),Firefox 65.0,,2019-03-29 10:15:24,2019-03-29 10:15:24,0.009s,PASSED
+"comment(""Create User"")",Firefox 65.0,,2019-03-29 10:15:24,2019-03-29 10:15:24,0.001s,PASSED
+"verifyTextPresent(""User Management Dashboard"", false)",Firefox 65.0,,2019-03-29 10:15:24,2019-03-29 10:15:24,0.062s,PASSED
+"waitForElementClickable(findTestObject(""Products/UserManagement/ManageUsers""), 15)",Firefox 65.0,,2019-03-29 10:15:24,2019-03-29 10:15:24,0.023s,PASSED
+"click(findTestObject(""Products/UserManagement/ManageUsers""))",Firefox 65.0,,2019-03-29 10:15:24,2019-03-29 10:15:24,0.256s,PASSED
+"verifyTextPresent(""Select a username below to edit contact information"", false)",Firefox 65.0,,2019-03-29 10:15:24,2019-03-29 10:15:24,0.040s,PASSED
+"waitForElementClickable(findTestObject(""Products/UserManagement/01-qa-user-99DeleteButton""), 15)",Firefox 65.0,,2019-03-29 10:15:24,2019-03-29 10:15:24,0.525s,PASSED
+"click(findTestObject(""Products/UserManagement/01-qa-user-99DeleteButton""))",Firefox 65.0,,2019-03-29 10:15:24,2019-03-29 10:15:25,0.249s,PASSED
+"verifyTextPresent(""01qauser99@kubra.com"", false)",Firefox 65.0,,2019-03-29 10:15:25,2019-03-29 10:15:25,0.352s,PASSED
+"click(findTestObject(""Products/UserManagement/ConfirmDeleteButton""))",Firefox 65.0,,2019-03-29 10:15:25,2019-03-29 10:15:25,0.232s,PASSED
+"waitForElementClickable(findTestObject(""Products/UserManagement/01-qa-user-99DeleteButton""), 15)",Firefox 65.0,,2019-03-29 10:15:25,2019-03-29 10:15:25,0.018s,PASSED
+"verifyTextPresent(""Manage Users"", false)",Firefox 65.0,,2019-03-29 10:15:25,2019-03-29 10:15:26,0.329s,PASSED
+"verifyTextNotPresent(""01qauser99@kubra.com"", false)",Firefox 65.0,,2019-03-29 10:15:26,2019-03-29 10:15:26,0.050s,PASSED
+closeBrowser(),Firefox 65.0,,2019-03-29 10:15:26,2019-03-29 10:15:26,0.476s,PASSED
+delay(4),Firefox 65.0,,2019-03-29 10:15:26,2019-03-29 10:15:30,4.002s,PASSED

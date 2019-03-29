@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Electoutage_OutRestoredForm</name>
+   <tag></tag>
+   <elementGuidId>10161118-6b5a-41bd-bd8a-157e06d2d1e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id='blob-out-restored-njk']//div[@role='presentation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@id='blob-out-restored-njk']//div[@role='presentation']</value>
+   </webElementProperties>
+</WebElementEntity>

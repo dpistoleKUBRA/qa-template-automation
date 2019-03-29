@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="LoginLogout" time="48" tests="1" failures="1" errors="0">
+   <testsuite name="LoginLogout" tests="1" failures="1" errors="0" time="48" timestamp="2018-12-03 10:05:36" hostname="Pshukla - Pshukla-T470p" id="Test Suites/LoginLogout">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Pshukla\\Katalon Studio\\qa-templates\\Reports\\LoginLogout\\20181203_100534"/>
+         <property name="logFiles" value="C:\\Users\\Pshukla\\Katalon Studio\\qa-templates\\Reports\\LoginLogout\\20181203_100534\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\Pshukla\\Katalon Studio\\qa-templates\\Reports\\LoginLogout\\20181203_100534\\1543856783082.png"/>
+         <property name="hostName" value="Pshukla - Pshukla-T470p"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.6.1"/>
+         <property name="browser" value="Firefox 63.0"/>
+         <property name="hostAddress" value="10.230.80.224"/>
+         <property name="sessionId" value="fd7f1e91-de86-4b4a-9ce5-9cd6fb102d17"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Products/StormCenterSwift/Login-Logout/TemplateLoginNC" classname="Test Cases/Products/StormCenterSwift/Login-Logout/TemplateLoginNC" status="PASSED">
+         <system-out><![CDATA[2018-12-03 10:05:36 - [TEST_CASE][PASSED] - Test Cases/Products/StormCenterSwift/Login-Logout/TemplateLoginNC: Test Cases/Products/StormCenterSwift/Login-Logout/TemplateLoginNC
+
+2018-12-03 10:05:36 - [TEST_STEP][PASSED] - Statement - log = new com.kms.katalon.core.logging.KeywordLogger(): null
+
+2018-12-03 10:05:36 - [TEST_STEP][PASSED] - comment: Open browser and Login
+
+2018-12-03 10:05:36 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://dev.kubra.io'
+
+2018-12-03 10:05:42 - [MESSAGE][PASSED] - Browser is opened with url: 'https://dev.kubra.io'
+
+2018-12-03 10:05:42 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-12-03 10:05:42 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-12-03 10:05:42 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-12-03 10:05:43 - [MESSAGE][PASSED] - Current window maximized
+
+2018-12-03 10:05:43 - [TEST_STEP][PASSED] - Statement - log.logWarning("--- Begin Login ---"): --- Begin Login ---
+
+2018-12-03 10:05:43 - [MESSAGE][WARNING] - --- Begin Login ---
+
+2018-12-03 10:05:43 - [TEST_STEP][PASSED] - Statement - log.logWarning("Logging in to environment - " + G_DefaultSiteURL): Logging in to environment - https://dev.kubra.io
+
+2018-12-03 10:05:43 - [MESSAGE][WARNING] - Logging in to environment - https://dev.kubra.io
+
+2018-12-03 10:05:43 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/Products/StormCenterSwift/LoginLogout/LogInWithGoogle' is clickable
+
+2018-12-03 10:05:43 - [MESSAGE][PASSED] - Object 'Object Repository/Products/StormCenterSwift/LoginLogout/LogInWithGoogle' is clickable
+
+2018-12-03 10:05:43 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-03 10:05:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-03 10:05:45 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/LogInWithGoogle' is clicked on
+
+2018-12-03 10:05:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/LogInWithGoogle' is clicked on
+
+2018-12-03 10:05:47 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Products/StormCenterSwift/LoginLogout/UserName' is visible
+
+2018-12-03 10:05:47 - [MESSAGE][PASSED] - Object 'Object Repository/Products/StormCenterSwift/LoginLogout/UserName' is visible
+
+2018-12-03 10:05:47 - [TEST_STEP][PASSED] - setMaskedText: Text '*****************' is set on object 'Object Repository/Products/StormCenterSwift/LoginLogout/UserName'
+
+2018-12-03 10:05:48 - [MESSAGE][PASSED] - Text '*****************' is set on object 'Object Repository/Products/StormCenterSwift/LoginLogout/UserName'
+
+2018-12-03 10:05:48 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Products/StormCenterSwift/LoginLogout/UserNameNextButton' is visible
+
+2018-12-03 10:05:48 - [MESSAGE][PASSED] - Object 'Object Repository/Products/StormCenterSwift/LoginLogout/UserNameNextButton' is visible
+
+2018-12-03 10:05:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/UserNameNextButton' is clicked on
+
+2018-12-03 10:05:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/UserNameNextButton' is clicked on
+
+2018-12-03 10:05:48 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Products/StormCenterSwift/LoginLogout/Password' is visible
+
+2018-12-03 10:05:49 - [MESSAGE][PASSED] - Object 'Object Repository/Products/StormCenterSwift/LoginLogout/Password' is visible
+
+2018-12-03 10:05:49 - [TEST_STEP][PASSED] - setMaskedText: Text '*********' is set on object 'Object Repository/Products/StormCenterSwift/LoginLogout/Password'
+
+2018-12-03 10:05:49 - [MESSAGE][PASSED] - Text '*********' is set on object 'Object Repository/Products/StormCenterSwift/LoginLogout/Password'
+
+2018-12-03 10:05:49 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/Products/StormCenterSwift/LoginLogout/PasswordNextButton' is clickable
+
+2018-12-03 10:05:49 - [MESSAGE][PASSED] - Object 'Object Repository/Products/StormCenterSwift/LoginLogout/PasswordNextButton' is clickable
+
+2018-12-03 10:05:49 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/PasswordNextButton' is clicked on
+
+2018-12-03 10:05:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/PasswordNextButton' is clicked on
+
+2018-12-03 10:05:53 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-12-03 10:05:58 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-12-03 10:05:58 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantABCCompany' is clickable
+
+2018-12-03 10:05:59 - [MESSAGE][PASSED] - Object 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantABCCompany' is clickable
+
+2018-12-03 10:05:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantABCCompany' is clicked on
+
+2018-12-03 10:05:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantABCCompany' is clicked on
+
+2018-12-03 10:05:59 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantABCCompany' are matched.
+
+2018-12-03 10:05:59 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantABCCompany' are matched.
+
+2018-12-03 10:05:59 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantSubmitButton' is clickable
+
+2018-12-03 10:05:59 - [MESSAGE][PASSED] - Object 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantSubmitButton' is clickable
+
+2018-12-03 10:05:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantSubmitButton' is clicked on
+
+2018-12-03 10:05:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantSubmitButton' is clicked on
+
+2018-12-03 10:05:59 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/Products/StormCenterSwift/LoginLogout/ChooseApp-Templates' is clickable
+
+2018-12-03 10:05:59 - [MESSAGE][PASSED] - Object 'Object Repository/Products/StormCenterSwift/LoginLogout/ChooseApp-Templates' is clickable
+
+2018-12-03 10:05:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/ChooseApp-Templates' is clicked on
+
+2018-12-03 10:05:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/ChooseApp-Templates' is clicked on
+
+2018-12-03 10:05:59 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/Products/StormCenterSwift/LoginLogout/SubmitButton_ChooseApp' is clickable
+
+2018-12-03 10:05:59 - [MESSAGE][PASSED] - Object 'Object Repository/Products/StormCenterSwift/LoginLogout/SubmitButton_ChooseApp' is clickable
+
+2018-12-03 10:05:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/SubmitButton_ChooseApp' is clicked on
+
+2018-12-03 10:06:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/SubmitButton_ChooseApp' is clicked on
+
+2018-12-03 10:06:01 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-03 10:06:02 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-03 10:06:02 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'ABC Utility Company' is present on page 
+
+2018-12-03 10:06:02 - [MESSAGE][PASSED] - Text 'ABC Utility Company' is present on page 
+
+2018-12-03 10:06:02 - [TEST_STEP][PASSED] - Statement - log.logWarning("--- End Login ---"): --- End Login ---
+
+2018-12-03 10:06:02 - [MESSAGE][WARNING] - --- End Login ---]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Products/StormCenterSwift/Login-Logout/TemplateLogoutNC" classname="Test Cases/Products/StormCenterSwift/Login-Logout/TemplateLogoutNC" status="FAILED">
+         <failure type="FAILED" message="(Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1543341303282.run(Script1543341303282.groovy:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1543856734141.run(TempTestSuite1543856734141.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)"/>
+         <system-out><![CDATA[2018-12-03 10:06:02 - [TEST_CASE][FAILED] - Test Cases/Products/StormCenterSwift/Login-Logout/TemplateLogoutNC: Test Cases/Products/StormCenterSwift/Login-Logout/TemplateLogoutNC FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1543341303282.run(Script1543341303282.groovy:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1543856734141.run(TempTestSuite1543856734141.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)
+
+2018-12-03 10:06:02 - [TEST_STEP][PASSED] - comment: Open browser, login and logout
+
+2018-12-03 10:06:02 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://dev.kubra.io'
+
+2018-12-03 10:06:02 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-12-03 10:06:07 - [MESSAGE][PASSED] - Browser is opened with url: 'https://dev.kubra.io'
+
+2018-12-03 10:06:07 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-12-03 10:06:07 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-12-03 10:06:07 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-12-03 10:06:07 - [MESSAGE][PASSED] - Current window maximized
+
+2018-12-03 10:06:07 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-03 10:06:08 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-03 10:06:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/LogInWithGoogle' is clicked on
+
+2018-12-03 10:06:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/LogInWithGoogle' is clicked on
+
+2018-12-03 10:06:09 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-03 10:06:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-03 10:06:11 - [TEST_STEP][PASSED] - setMaskedText: Text '*****************' is set on object 'Object Repository/Products/StormCenterSwift/LoginLogout/UserName'
+
+2018-12-03 10:06:11 - [MESSAGE][PASSED] - Text '*****************' is set on object 'Object Repository/Products/StormCenterSwift/LoginLogout/UserName'
+
+2018-12-03 10:06:11 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-12-03 10:06:12 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-03 10:06:12 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/UserNameNextButton' is clicked on
+
+2018-12-03 10:06:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/UserNameNextButton' is clicked on
+
+2018-12-03 10:06:12 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-12-03 10:06:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 10:06:15 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/Products/StormCenterSwift/LoginLogout/Password' is visible
+
+2018-12-03 10:06:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-12-03 10:06:15 - [MESSAGE][PASSED] - Object 'Object Repository/Products/StormCenterSwift/LoginLogout/Password' is visible
+
+2018-12-03 10:06:15 - [TEST_STEP][PASSED] - setMaskedText: Text '*********' is set on object 'Object Repository/Products/StormCenterSwift/LoginLogout/Password'
+
+2018-12-03 10:06:15 - [MESSAGE][PASSED] - Text '*********' is set on object 'Object Repository/Products/StormCenterSwift/LoginLogout/Password'
+
+2018-12-03 10:06:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/PasswordNextButton' is clicked on
+
+2018-12-03 10:06:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/PasswordNextButton' is clicked on
+
+2018-12-03 10:06:19 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantABCUtilityCompany' is clicked on
+
+2018-12-03 10:06:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantABCUtilityCompany' is clicked on
+
+2018-12-03 10:06:20 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantABCUtilityCompany' are matched.
+
+2018-12-03 10:06:20 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantABCUtilityCompany' are matched.
+
+2018-12-03 10:06:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantSubmitButton' is clicked on
+
+2018-12-03 10:06:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Products/StormCenterSwift/LoginLogout/TenantSubmitButton' is clicked on
+
+2018-12-03 10:06:21 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-12-03 10:06:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-03 10:06:23 - [TEST_STEP][FAILED] - click: Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+
+2018-12-03 10:06:23 - [MESSAGE][WARNING] - Test object with id 'Object Repository/null' does not exist
+
+2018-12-03 10:06:23 - [MESSAGE][WARNING] - Test object with id 'Object Repository/' does not exist
+
+2018-12-03 10:06:23 - [MESSAGE][FAILED] - Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+[[ATTACHMENT|C:\\Users\\Pshukla\\Katalon Studio\\qa-templates\\Reports\\LoginLogout\\20181203_100534\\1543856783082.png]]]]></system-out>
+         <system-err><![CDATA[2018-12-03 10:06:02 - [TEST_CASE][FAILED] - Test Cases/Products/StormCenterSwift/Login-Logout/TemplateLogoutNC: Test Cases/Products/StormCenterSwift/Login-Logout/TemplateLogoutNC FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1543341303282.run(Script1543341303282.groovy:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1543856734141.run(TempTestSuite1543856734141.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-12-03 10:05:36 - [TEST_SUITE][FAILED] - LoginLogout: Test Cases/Products/StormCenterSwift/Login-Logout/TemplateLogoutNC FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1543341303282.run(Script1543341303282.groovy:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1543856734141.run(TempTestSuite1543856734141.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-out>
+      <system-err><![CDATA[2018-12-03 10:05:36 - [TEST_SUITE][FAILED] - LoginLogout: Test Cases/Products/StormCenterSwift/Login-Logout/TemplateLogoutNC FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1543341303282.run(Script1543341303282.groovy:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1543856734141.run(TempTestSuite1543856734141.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-err>
+   </testsuite>
+</testsuites>

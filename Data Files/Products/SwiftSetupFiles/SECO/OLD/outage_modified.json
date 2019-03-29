@@ -1,0 +1,4436 @@
+{
+    "outages": [
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000030004",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000030102",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000031102",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000031204",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000031304",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000034408",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012192201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012178103",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012178301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012189502",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012189701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012190802",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012191002",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012138503",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012138601",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012138702",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012142204",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012155704",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012160802",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011770702",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011770802",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012137804",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012138004",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012138305",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012138404",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011762401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011764302",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011769803",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011769907",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011770002",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011770101",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011702504",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011707302",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011756711",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011756905",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011761701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011762001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011605401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011605503",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011605605",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011668906",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011669103",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011702413",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011339702",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011349801",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011349902",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011350002",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011372803",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011413702",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011327500",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011333707",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011333802",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011339406",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011339502",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011339602",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011105904",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011307101",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011323603",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011323703",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011323803",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011323905",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011089402",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011089501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011105003",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011105102",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011105702",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011105810",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011088501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011088802",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011089001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011089101",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011089206",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011089302",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000267201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000267301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011085802",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011086004",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011087802",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011088401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000081503",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000081801",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000081901",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000136008",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000136108",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000145906",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000034604",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000039804",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000039902",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000040007",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000077201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189068",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Light Equipment Failure",
+            "startedAt": "2017-07-21T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000077303",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000082002",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4000082002",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000082002",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4000082002",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000365700",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4000365700",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000365700",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4000365700",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000407400",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4000407400",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000407400",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4000407400",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "9604241301",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "9604241301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "9604241301",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "9604241301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642855018",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642855018",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642855018",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642855018",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "9603039701",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "9603039701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "9603039701",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "9603039701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "9604119701",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "9604119701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "9604119701",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "9604119701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642840011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642840011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642840011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642840011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642845011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642845011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642845011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642845011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642850012",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642850012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642850012",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642850012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642800011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642800011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642800011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642800011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642820011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642820011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642820011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642820011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642830011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642830011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642830011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642830011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642791212",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642791212",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642791212",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642791212",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642792513",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642792513",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642792513",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642792513",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642797513",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642797513",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642797513",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642797513",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642715012",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642715012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642715012",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642715012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642722520",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642722520",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642722520",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642722520",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642750010",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642750010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642750010",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642750010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642605011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642605011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642605011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642605011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642620011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642620011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642620011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642620011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642650010",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642650010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642650010",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642650010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642570012",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642570012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642570012",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642570012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642576011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642576011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642576011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642576011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642590011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642590011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642590011",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642590011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4522469010",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4522469010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4522469010",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4522469010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642522512",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642522512",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642522512",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642522512",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642523516",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642523516",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4642523516",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4642523516",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4522460014",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4522460014",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4522460014",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4522460014",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4522465010",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4522465010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4522465010",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4522465010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4522467511",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4522467511",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4522467511",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4522467511",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011942001",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011942001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011942001",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011942001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012057501",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4012057501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012057501",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4012057501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012362701",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4012362701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4012362701",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4012362701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011901100",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011901100",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011901100",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011901100",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011907401",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011907401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011907401",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011907401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011941901",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011941901",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011941901",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011941901",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011842401",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011842401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011842401",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011842401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011842501",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011842501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011842501",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011842501",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011881700",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011881700",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011881700",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011881700",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011533800",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011533800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011533800",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011533800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011750202",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011750202",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011750202",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011750202",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011820100",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011820100",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011820100",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011820100",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011211401",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011211401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011211401",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011211401",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011455202",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011455202",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011455202",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011455202",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011457201",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011457201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011457201",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011457201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010991200",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010991200",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010991200",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010991200",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011089800",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011089800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011089800",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011089800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011106101",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011106101",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4011106101",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4011106101",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010943601",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010943601",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010943601",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010943601",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010954200",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010954200",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010954200",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010954200",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010955602",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010955602",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010955602",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010955602",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010854201",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010854201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010854201",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010854201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010872704",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010872704",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010872704",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010872704",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010891704",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010891704",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010891704",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010891704",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010718903",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010718903",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010718903",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010718903",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010765801",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010765801",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010765801",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010765801",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010850800",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010850800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010850800",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010850800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010667203",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010667203",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010667203",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010667203",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010681001",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010681001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010681001",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010681001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010718800",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010718800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010718800",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010718800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010600301",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010600301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010600301",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010600301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010636800",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010636800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010636800",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010636800",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010662201",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010662201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010662201",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010662201",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010444702",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010444702",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010444702",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010444702",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010473301",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010473301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010473301",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010473301",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010476700",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010476700",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010476700",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010476700",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010218502",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010218502",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010218502",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010218502",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010244001",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010244001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010244001",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010244001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010293704",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010293704",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010293704",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010293704",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000508001",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4000508001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4000508001",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4000508001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010090001",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010090001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010090001",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010090001",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010098901",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010098901",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "191975",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Lightning Damage",
+            "startedAt": "2017-08-12T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "4010098901",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "4010098901",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "162348",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Storm Damage",
+            "startedAt": "2016-10-07T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "1762630010",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "162348",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Storm Damage",
+            "startedAt": "2016-10-07T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "1762650012",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "162348",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Storm Damage",
+            "startedAt": "2016-10-07T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "1763855011",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "162348",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Storm Damage",
+            "startedAt": "2016-10-07T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "1763865013",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "154573",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Hardware Failure/Upgrade",
+            "startedAt": "2016-08-08T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "5301014701",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "5301014701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "154573",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Hardware Failure/Upgrade",
+            "startedAt": "2016-08-08T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "5301014701",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "5301014701",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189800",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Hardware Failure/Upgrade",
+            "startedAt": "2017-07-26T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "6010114000",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "6010114000",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "id": "189800",
+            "outageConfirmed": "true",
+            "crewStatus": "ENROUTE",
+            "CrewIconIndicator": "false",
+            "cause": "Hardware Failure/Upgrade",
+            "startedAt": "2017-07-26T00:00:00",
+            "asaffectedDeliveryNodes": [
+                {
+                    "dnId": "6010114000",
+                    "confidence": "HIGH"
+                },
+                {
+                    "dnId": "6010114000",
+                    "confidence": "HIGH"
+                }
+            ]
+        }
+    ],
+    "restorations": [
+        {
+            "id": "369602",
+            "restoredDeliveryNodes": "8012369602"
+        },
+        {
+            "id": "421602",
+            "restoredDeliveryNodes": "8013421602"
+        },
+        {
+            "id": "899304",
+            "restoredDeliveryNodes": "8025899304"
+        },
+        {
+            "id": "784001",
+            "restoredDeliveryNodes": "8013784001"
+        },
+        {
+            "id": "661401",
+            "restoredDeliveryNodes": "8019661401"
+        },
+        {
+            "id": "783601",
+            "restoredDeliveryNodes": "8013783601"
+        },
+        {
+            "id": "666201",
+            "restoredDeliveryNodes": "8019666201"
+        },
+        {
+            "id": "543201",
+            "restoredDeliveryNodes": "8019543201"
+        },
+        {
+            "id": "370103",
+            "restoredDeliveryNodes": "8013370103"
+        },
+        {
+            "id": "858804",
+            "restoredDeliveryNodes": "9600858804"
+        },
+        {
+            "id": "680802",
+            "restoredDeliveryNodes": "8019680802"
+        },
+        {
+            "id": "716702",
+            "restoredDeliveryNodes": "8012716702"
+        },
+        {
+            "id": "608204",
+            "restoredDeliveryNodes": "8012608204"
+        },
+        {
+            "id": "786801",
+            "restoredDeliveryNodes": "8013786801"
+        },
+        {
+            "id": "672601",
+            "restoredDeliveryNodes": "8019672601"
+        },
+        {
+            "id": "218101",
+            "restoredDeliveryNodes": "8026218101"
+        },
+        {
+            "id": "792801",
+            "restoredDeliveryNodes": "8013792801"
+        },
+        {
+            "id": "837702",
+            "restoredDeliveryNodes": "8025837702"
+        },
+        {
+            "id": "614302",
+            "restoredDeliveryNodes": "8019614302"
+        },
+        {
+            "id": "494602",
+            "restoredDeliveryNodes": "8012494602"
+        },
+        {
+            "id": "715402",
+            "restoredDeliveryNodes": "8012715402"
+        },
+        {
+            "id": "423904",
+            "restoredDeliveryNodes": "8011423904"
+        },
+        {
+            "id": "656701",
+            "restoredDeliveryNodes": "8019656701"
+        },
+        {
+            "id": "016908",
+            "restoredDeliveryNodes": "8012016908"
+        },
+        {
+            "id": "763002",
+            "restoredDeliveryNodes": "8011763002"
+        },
+        {
+            "id": "640304",
+            "restoredDeliveryNodes": "8012640304"
+        },
+        {
+            "id": "647801",
+            "restoredDeliveryNodes": "8010647801"
+        },
+        {
+            "id": "827802",
+            "restoredDeliveryNodes": "8013827802"
+        },
+        {
+            "id": "195502",
+            "restoredDeliveryNodes": "8012195502"
+        },
+        {
+            "id": "807101",
+            "restoredDeliveryNodes": "8010807101"
+        },
+        {
+            "id": "643402",
+            "restoredDeliveryNodes": "8012643402"
+        },
+        {
+            "id": "688201",
+            "restoredDeliveryNodes": "8019688201"
+        },
+        {
+            "id": "714902",
+            "restoredDeliveryNodes": "8019714902"
+        },
+        {
+            "id": "687001",
+            "restoredDeliveryNodes": "8019687001"
+        },
+        {
+            "id": "687101",
+            "restoredDeliveryNodes": "8019687101"
+        },
+        {
+            "id": "686201",
+            "restoredDeliveryNodes": "8019686201"
+        },
+        {
+            "id": "651901",
+            "restoredDeliveryNodes": "8019651901"
+        },
+        {
+            "id": "652001",
+            "restoredDeliveryNodes": "8019652001"
+        },
+        {
+            "id": "783701",
+            "restoredDeliveryNodes": "8013783701"
+        },
+        {
+            "id": "154202",
+            "restoredDeliveryNodes": "9601154202"
+        },
+        {
+            "id": "214701",
+            "restoredDeliveryNodes": "8026214701"
+        },
+        {
+            "id": "218201",
+            "restoredDeliveryNodes": "8026218201"
+        },
+        {
+            "id": "547202",
+            "restoredDeliveryNodes": "8011547202"
+        },
+        {
+            "id": "619701",
+            "restoredDeliveryNodes": "8013619701"
+        },
+        {
+            "id": "649401",
+            "restoredDeliveryNodes": "8019649401"
+        },
+        {
+            "id": "593602",
+            "restoredDeliveryNodes": "8012593602"
+        },
+        {
+            "id": "687602",
+            "restoredDeliveryNodes": "8019687602"
+        },
+        {
+            "id": "000402",
+            "restoredDeliveryNodes": "8013000402"
+        },
+        {
+            "id": "561101",
+            "restoredDeliveryNodes": "8012561101"
+        },
+        {
+            "id": "606902",
+            "restoredDeliveryNodes": "8019606902"
+        },
+        {
+            "id": "220201",
+            "restoredDeliveryNodes": "8026220201"
+        },
+        {
+            "id": "685402",
+            "restoredDeliveryNodes": "8013685402"
+        },
+        {
+            "id": "801001",
+            "restoredDeliveryNodes": "8013801001"
+        },
+        {
+            "id": "638501",
+            "restoredDeliveryNodes": "8019638501"
+        },
+        {
+            "id": "439202",
+            "restoredDeliveryNodes": "9600439202"
+        },
+        {
+            "id": "336802",
+            "restoredDeliveryNodes": "8012336802"
+        },
+        {
+            "id": "775202",
+            "restoredDeliveryNodes": "8019775202"
+        },
+        {
+            "id": "237003",
+            "restoredDeliveryNodes": "8013237003"
+        },
+        {
+            "id": "679501",
+            "restoredDeliveryNodes": "8019679501"
+        },
+        {
+            "id": "367504",
+            "restoredDeliveryNodes": "8011367504"
+        },
+        {
+            "id": "668201",
+            "restoredDeliveryNodes": "8019668201"
+        },
+        {
+            "id": "669201",
+            "restoredDeliveryNodes": "8019669201"
+        },
+        {
+            "id": "669701",
+            "restoredDeliveryNodes": "8019669701"
+        },
+        {
+            "id": "788201",
+            "restoredDeliveryNodes": "8013788201"
+        },
+        {
+            "id": "223401",
+            "restoredDeliveryNodes": "8026223401"
+        },
+        {
+            "id": "223201",
+            "restoredDeliveryNodes": "8026223201"
+        },
+        {
+            "id": "620601",
+            "restoredDeliveryNodes": "8013620601"
+        },
+        {
+            "id": "305002",
+            "restoredDeliveryNodes": "8013305002"
+        },
+        {
+            "id": "620301",
+            "restoredDeliveryNodes": "8013620301"
+        },
+        {
+            "id": "225401",
+            "restoredDeliveryNodes": "8026225401"
+        },
+        {
+            "id": "427302",
+            "restoredDeliveryNodes": "8011427302"
+        },
+        {
+            "id": "213801",
+            "restoredDeliveryNodes": "8026213801"
+        },
+        {
+            "id": "095702",
+            "restoredDeliveryNodes": "9600095702"
+        },
+        {
+            "id": "020302",
+            "restoredDeliveryNodes": "8010020302"
+        },
+        {
+            "id": "797101",
+            "restoredDeliveryNodes": "8013797101"
+        },
+        {
+            "id": "784201",
+            "restoredDeliveryNodes": "8013784201"
+        },
+        {
+            "id": "386102",
+            "restoredDeliveryNodes": "9601386102"
+        },
+        {
+            "id": "782001",
+            "restoredDeliveryNodes": "8013782001"
+        },
+        {
+            "id": "398202",
+            "restoredDeliveryNodes": "8012398202"
+        },
+        {
+            "id": "304302",
+            "restoredDeliveryNodes": "8012304302"
+        },
+        {
+            "id": "325801",
+            "restoredDeliveryNodes": "8012325801"
+        },
+        {
+            "id": "778201",
+            "restoredDeliveryNodes": "8013778201"
+        },
+        {
+            "id": "806201",
+            "restoredDeliveryNodes": "8013806201"
+        },
+        {
+            "id": "675001",
+            "restoredDeliveryNodes": "8019675001"
+        },
+        {
+            "id": "151602",
+            "restoredDeliveryNodes": "9601151602"
+        },
+        {
+            "id": "669501",
+            "restoredDeliveryNodes": "8019669501"
+        },
+        {
+            "id": "166501",
+            "restoredDeliveryNodes": "8012166501"
+        },
+        {
+            "id": "771203",
+            "restoredDeliveryNodes": "8013771203"
+        },
+        {
+            "id": "234801",
+            "restoredDeliveryNodes": "8026234801"
+        },
+        {
+            "id": "377403",
+            "restoredDeliveryNodes": "8010377403"
+        },
+        {
+            "id": "801801",
+            "restoredDeliveryNodes": "8013801801"
+        },
+        {
+            "id": "804601",
+            "restoredDeliveryNodes": "8013804601"
+        },
+        {
+            "id": "207901",
+            "restoredDeliveryNodes": "8026207901"
+        },
+        {
+            "id": "210601",
+            "restoredDeliveryNodes": "8026210601"
+        },
+        {
+            "id": "749401",
+            "restoredDeliveryNodes": "8013749401"
+        },
+        {
+            "id": "650301",
+            "restoredDeliveryNodes": "8019650301"
+        },
+        {
+            "id": "787901",
+            "restoredDeliveryNodes": "8013787901"
+        },
+        {
+            "id": "787701",
+            "restoredDeliveryNodes": "8013787701"
+        },
+        {
+            "id": "787801",
+            "restoredDeliveryNodes": "8013787801"
+        },
+        {
+            "id": "560902",
+            "restoredDeliveryNodes": "8019560902"
+        }
+    ]
+}

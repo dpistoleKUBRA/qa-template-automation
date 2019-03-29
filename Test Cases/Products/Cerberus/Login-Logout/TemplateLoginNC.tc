@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TemplateLoginNC</name>
+   <tag></tag>
+   <comment>Open browser and Login</comment>
+   <testCaseGuid>6989967a-7844-4cff-96f1-bd12ed147894</testCaseGuid>
+</TestCaseEntity>

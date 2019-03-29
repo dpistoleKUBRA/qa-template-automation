@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EditUser</name>
+   <tag></tag>
+   <comment>Open browser to User Management App. and Create User
+Create User</comment>
+   <testCaseGuid>66be90cf-6cc6-47eb-b93e-4e2b8de34eee</testCaseGuid>
+</TestCaseEntity>

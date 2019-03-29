@@ -1,0 +1,26 @@
+{
+    "outages": [
+{
+    "id": "O-PHX01",
+    "outageConfirmed": true,
+    "crewStatus": "ENROUTE",
+    "crewIconIndicator": true,
+    "cause": "Branch On Line",
+    "comments": null,
+    "etr": null,
+    "etrType": null,
+    "startedAt": "2017-04-02T17:27:06.974Z",
+    "restoredAt": null,
+    "updatedAt": "2017-04-05T17:27:06.974Z",
+    "affectedDeliveryNodes": [
+        {
+            "dnId": "PHX01",
+            "articleNumber": "12345",
+            "confidence": "HIGH",
+            "callbackContact": "16235479403",
+            "reported": false
+        }
+    ]
+}
+]
+}

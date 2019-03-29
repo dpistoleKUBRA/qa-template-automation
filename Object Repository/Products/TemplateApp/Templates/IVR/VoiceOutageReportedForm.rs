@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>VoiceOutageReportedForm</name>
+   <tag></tag>
+   <elementGuidId>330c4c8b-7e2a-4195-8e50-0c2cff130141</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id='blob-voice-outage-reported-njk']//div[@role='presentation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@id='blob-voice-outage-reported-njk']//div[@role='presentation']</value>
+   </webElementProperties>
+</WebElementEntity>

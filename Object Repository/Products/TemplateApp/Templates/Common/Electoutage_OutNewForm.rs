@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Electoutage_OutNewForm</name>
+   <tag></tag>
+   <elementGuidId>fd9eaa87-d5b4-4c62-b9c1-c6e3ee66988f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id='blob-out-new-njk']//div[@role='presentation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@id='blob-out-new-njk']//div[@role='presentation']</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ElectOutage_OutNewPreviewLink</name>
+   <tag></tag>
+   <elementGuidId>1100a649-6b67-49b8-9ac1-b67155f4fb9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id='blob-out-new-njk']//span[@class='templates-list-preview'][contains(text(),'Preview')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@id='blob-out-new-njk']//span[@class='templates-list-preview'][contains(text(),'Preview')]</value>
+   </webElementProperties>
+</WebElementEntity>

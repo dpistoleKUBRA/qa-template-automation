@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FmtOutageCausedNJK</name>
+   <tag></tag>
+   <elementGuidId>22ed1d3d-5850-4c68-bd87-de7d22efcf5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id='blob-fmtoutagecause-njk']//span[@class='template-name']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@id='blob-fmtoutagecause-njk']//span[@class='template-name']</value>
+   </webElementProperties>
+</WebElementEntity>

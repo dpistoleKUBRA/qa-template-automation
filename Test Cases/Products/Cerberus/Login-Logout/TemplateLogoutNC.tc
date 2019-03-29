@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TemplateLogoutNC</name>
+   <tag></tag>
+   <comment>Open browser, login and logout</comment>
+   <testCaseGuid>95b443e7-1c8c-43c7-af58-4d386c97ea4b</testCaseGuid>
+</TestCaseEntity>

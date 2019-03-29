@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TemplateManagerAdmin</name>
+   <tag></tag>
+   <elementGuidId>30e43a48-e387-4a4a-aed1-9d87236acd20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id='manage-user-form-group-id-menu-item-template-manager-admin']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@id='manage-user-form-group-id-menu-item-template-manager-admin']</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WaterOutage_VerifyPreviewLinkOfWaterRestored</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbe6b218-3ed4-4862-8727-9ce4e68f8712</testCaseGuid>
+</TestCaseEntity>

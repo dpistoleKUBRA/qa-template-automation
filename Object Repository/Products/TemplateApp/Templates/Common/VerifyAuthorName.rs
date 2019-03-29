@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>VerifyAuthorName</name>
+   <tag></tag>
+   <elementGuidId>e0b9bcc4-80ba-4d68-bb3d-67b93c246c6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[3]/div/div[2]/div/div[2]/div/div[2]/div/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[3]/div/div[2]/div/div[2]/div/div[2]/div/table/tbody/tr/td</value>
+   </webElementProperties>
+</WebElementEntity>

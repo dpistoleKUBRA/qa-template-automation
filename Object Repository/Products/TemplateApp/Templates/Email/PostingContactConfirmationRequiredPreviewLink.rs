@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PostingContactConfirmationRequiredPreviewLink</name>
+   <tag></tag>
+   <elementGuidId>20a82e46-8063-4437-9092-2f1b76c1f21f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id='blob-posting-contact-confirmation-required-njk']//span[@class='templates-list-preview'][contains(text(),'Preview')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@id='blob-posting-contact-confirmation-required-njk']//span[@class='templates-list-preview'][contains(text(),'Preview')]</value>
+   </webElementProperties>
+</WebElementEntity>

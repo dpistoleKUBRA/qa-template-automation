@@ -1,0 +1,16 @@
+{"id": "SECO01", "latitude":28.8708379, "longitude":-81.9684825, "customersServed": 25}
+{"id": "SECO02", "latitude":28.853243, "longitude":-82.000149, "customersServed": 10}
+{"id": "SECO03", "latitude":28.894756, "longitude":-81.618920, "customersServed": 5}
+{"id": "SECO04", "latitude":28.458697, "longitude":-81.813435, "customersServed": 20}
+{"id": "PHX01", "articles": ["1", "2"], "latitude":33.468867, "longitude":-112.050206, "customersServed": 2}
+{"id": "PHX02", "articles": ["3", "4", 5], "latitude":33.485190, "longitude":-112.087285, "customersServed": 3}
+{"id": "PHX03", "articles": ["6", "7"], "latitude":33.485190, "longitude":-112.087285, "customersServed": 2}
+{"id": "OUTTHEM", "latitude":33.524982, "longitude":-112.181355, "customersServed": 1}
+{"id": "SCOTTS01", "latitude":33.480322, "longitude":-111.922490, "customersServed": 1}
+{"id": "SCOTTS02", "latitude":33.468580, "longitude":-111.920086, "customersServed": 3}
+{"id": "SCOTTS03", "latitude":33.46653, "longitude":-111.92245, "customersServed": 1}
+{"id": "SANC001", "latitude":33.069633, "longitude":-110.261267, "customersServed": null}
+{"id": "SANC002", "latitude":33.063568, "longitude":-110.289686, "customersServed": 1}
+{"id": "OUTOPCO", "latitude":33.346959, "longitude":-108.812970}
+{"id": "TUCSON01", "latitude":32.191540, "longitude":-110.961272}
+{"id": "TUCSON02", "latitude":32.188264, "longitude":-110.930306, "customersServed": 1}

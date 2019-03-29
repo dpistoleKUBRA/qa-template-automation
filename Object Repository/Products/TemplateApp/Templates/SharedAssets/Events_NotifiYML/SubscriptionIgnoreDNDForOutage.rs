@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SubscriptionIgnoreDNDForOutage</name>
+   <tag></tag>
+   <elementGuidId>1c31bb82-ebf8-42ab-96d2-ef9d42ed1204</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='assets-form--subscriptions-ignore-dnd-for-outage-input']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='assets-form--subscriptions-ignore-dnd-for-outage-input']</value>
+   </webElementProperties>
+</WebElementEntity>

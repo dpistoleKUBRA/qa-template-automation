@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Dev</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Dev URL</description>
+      <initValue>'https://dev.kubra.io'</initValue>
+      <name>G_DefaultSiteURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>15</initValue>
+      <name>G_ShortTimeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>30</initValue>
+      <name>G_MediumTimeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>60</initValue>
+      <name>G_LongTimeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>QA Test Utility Company</description>
+      <initValue>'QA Test Utility Company'</initValue>
+      <name>G_Tenant_QATestUtilityCo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>ABC Utility Company</description>
+      <initValue>'ABC Utility Company'</initValue>
+      <name>G_Tenant_ABCUtilityCo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Test Environment</description>
+      <initValue>'Test'</initValue>
+      <name>SelectEnvironment</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

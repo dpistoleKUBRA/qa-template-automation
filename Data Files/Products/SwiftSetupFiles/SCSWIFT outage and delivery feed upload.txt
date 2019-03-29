@@ -1,0 +1,27 @@
+GET deliveryNodeFeeds
+
+grab id
+
+use id in POST deliveryNodeFeeds
+
+in "body" select choose file (dn.jsonl)
+
+click on href in response
+
+click send on new post request from href
+
+once "status": "SUCCEEDED", GET outageFeeds
+
+grab id
+
+use id in POST outageFeeds
+
+in "body" select choose file (outage.jsonl)
+
+verify headers does not include content type
+
+click on href in response
+
+click send on new post request from href
+
+once "status": "SUCCEEDED", you are finished

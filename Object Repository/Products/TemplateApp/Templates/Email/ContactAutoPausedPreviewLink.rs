@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ContactAutoPausedPreviewLink</name>
+   <tag></tag>
+   <elementGuidId>4929d6c8-21b5-4952-a100-87beb8a44968</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id='blob-contact-auto-paused-njk']//span[@class='templates-list-preview'][contains(text(),'Preview')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@id='blob-contact-auto-paused-njk']//span[@class='templates-list-preview'][contains(text(),'Preview')]</value>
+   </webElementProperties>
+</WebElementEntity>

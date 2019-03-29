@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "id": "PHX01",
+      "latitude": 33.468867,
+      "longitude": -112.050206,
+      "customersServed": 2
+    },
+    {
+      "id": "PHX02",
+      "latitude": 33.48519,
+      "longitude": -112.087285,
+      "customersServed": 3
+    }
+  ]
+}

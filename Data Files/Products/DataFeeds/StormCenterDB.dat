@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>StormCenterDB</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>8053ac2f-6fa4-4ab5-a11f-60fd522ca278</dataFileGUID>
+   <dataSourceUrl>jdbc:mysql://stormcenter-db-qa.kubra.io:3306/im</dataSourceUrl>
+   <driver>DBData</driver>
+   <isInternalPath>false</isInternalPath>
+   <password>MGR2REVJTnhUN0Vh</password>
+   <query>SELECT * FROM im.job WHERE file_location LIKE '%_FILENAME_%' ORDER BY updated DESC;</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>im</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

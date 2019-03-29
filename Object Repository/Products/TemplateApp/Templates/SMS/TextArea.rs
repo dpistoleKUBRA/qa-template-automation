@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TextArea</name>
+   <tag></tag>
+   <elementGuidId>5279cc5a-363d-463e-afd9-8524f33741ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html//div[@id='root']//div[@class='use-skeleton']/div[@class='app']/div[@class='route-content']/div[@class='templates-dashboard']//form//div[@class='CodeMirror-scroll']/div[@class='CodeMirror-sizer']/div/div[@role='presentation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html//div[@id='root']//div[@class='use-skeleton']/div[@class='app']/div[@class='route-content']/div[@class='templates-dashboard']//form//div[@class='CodeMirror-scroll']/div[@class='CodeMirror-sizer']/div/div[@role='presentation']</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TemplateLoginNCQATestUtility</name>
+   <tag></tag>
+   <comment>Open browser and Login</comment>
+   <testCaseGuid>f947fd16-c378-48d0-ab2d-6de86825a514</testCaseGuid>
+</TestCaseEntity>

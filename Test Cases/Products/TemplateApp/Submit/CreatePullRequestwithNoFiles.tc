@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreatePullRequestwithNoFiles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7c6ea19-3ab2-4b9c-9ba3-232caa8108cd</testCaseGuid>
+</TestCaseEntity>

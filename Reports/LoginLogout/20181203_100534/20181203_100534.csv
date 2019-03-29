@@ -1,0 +1,56 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+LoginLogout,Firefox 63.0,,2018-12-03 10:05:36,2018-12-03 10:06:24,48.610s,FAILED
+,,,,,,
+Test Cases/Products/StormCenterSwift/Login-Logout/TemplateLoginNC,Firefox 63.0,,2018-12-03 10:05:36,2018-12-03 10:06:02,25.557s,PASSED
+Statement - log = new com.kms.katalon.core.logging.KeywordLogger(),Firefox 63.0,,2018-12-03 10:05:36,2018-12-03 10:05:36,0.001s,PASSED
+comment,Firefox 63.0,,2018-12-03 10:05:36,2018-12-03 10:05:36,0.048s,PASSED
+openBrowser,Firefox 63.0,,2018-12-03 10:05:36,2018-12-03 10:05:42,6.046s,PASSED
+waitForPageLoad,Firefox 63.0,,2018-12-03 10:05:42,2018-12-03 10:05:42,0.064s,PASSED
+maximizeWindow,Firefox 63.0,,2018-12-03 10:05:42,2018-12-03 10:05:43,0.115s,PASSED
+"Statement - log.logWarning(""--- Begin Login ---"")",Firefox 63.0,,2018-12-03 10:05:43,2018-12-03 10:05:43,0.007s,PASSED
+"Statement - log.logWarning(""Logging in to environment - "" + G_DefaultSiteURL)",Firefox 63.0,,2018-12-03 10:05:43,2018-12-03 10:05:43,0.007s,PASSED
+waitForElementClickable,Firefox 63.0,,2018-12-03 10:05:43,2018-12-03 10:05:43,0.634s,PASSED
+delay,Firefox 63.0,,2018-12-03 10:05:43,2018-12-03 10:05:45,2.011s,PASSED
+click,Firefox 63.0,,2018-12-03 10:05:45,2018-12-03 10:05:47,1.260s,PASSED
+waitForElementVisible,Firefox 63.0,,2018-12-03 10:05:47,2018-12-03 10:05:47,0.809s,PASSED
+setMaskedText,Firefox 63.0,,2018-12-03 10:05:47,2018-12-03 10:05:48,0.261s,PASSED
+waitForElementVisible,Firefox 63.0,,2018-12-03 10:05:48,2018-12-03 10:05:48,0.062s,PASSED
+click,Firefox 63.0,,2018-12-03 10:05:48,2018-12-03 10:05:48,0.312s,PASSED
+waitForElementVisible,Firefox 63.0,,2018-12-03 10:05:48,2018-12-03 10:05:49,1.247s,PASSED
+setMaskedText,Firefox 63.0,,2018-12-03 10:05:49,2018-12-03 10:05:49,0.081s,PASSED
+waitForElementClickable,Firefox 63.0,,2018-12-03 10:05:49,2018-12-03 10:05:49,0.022s,PASSED
+click,Firefox 63.0,,2018-12-03 10:05:49,2018-12-03 10:05:53,4.178s,PASSED
+delay,Firefox 63.0,,2018-12-03 10:05:53,2018-12-03 10:05:58,5.003s,PASSED
+waitForElementClickable,Firefox 63.0,For DEV/QA Environment Testing,2018-12-03 10:05:58,2018-12-03 10:05:59,0.052s,PASSED
+click,Firefox 63.0,,2018-12-03 10:05:59,2018-12-03 10:05:59,0.236s,PASSED
+verifyElementText,Firefox 63.0,,2018-12-03 10:05:59,2018-12-03 10:05:59,0.049s,PASSED
+waitForElementClickable,Firefox 63.0,,2018-12-03 10:05:59,2018-12-03 10:05:59,0.025s,PASSED
+click,Firefox 63.0,,2018-12-03 10:05:59,2018-12-03 10:05:59,0.236s,PASSED
+waitForElementClickable,Firefox 63.0,,2018-12-03 10:05:59,2018-12-03 10:05:59,0.025s,PASSED
+click,Firefox 63.0,,2018-12-03 10:05:59,2018-12-03 10:05:59,0.229s,PASSED
+waitForElementClickable,Firefox 63.0,,2018-12-03 10:05:59,2018-12-03 10:05:59,0.020s,PASSED
+click,Firefox 63.0,,2018-12-03 10:05:59,2018-12-03 10:06:01,1.215s,PASSED
+delay,Firefox 63.0,,2018-12-03 10:06:01,2018-12-03 10:06:02,1.002s,PASSED
+verifyTextPresent,Firefox 63.0,,2018-12-03 10:06:02,2018-12-03 10:06:02,0.127s,PASSED
+"Statement - log.logWarning(""--- End Login ---"")",Firefox 63.0,,2018-12-03 10:06:02,2018-12-03 10:06:02,0.001s,PASSED
+,,,,,,
+Test Cases/Products/StormCenterSwift/Login-Logout/TemplateLogoutNC,Firefox 63.0,,2018-12-03 10:06:02,2018-12-03 10:06:23,21.670s,FAILED
+comment,Firefox 63.0,,2018-12-03 10:06:02,2018-12-03 10:06:02,0.001s,PASSED
+openBrowser,Firefox 63.0,,2018-12-03 10:06:02,2018-12-03 10:06:07,4.841s,PASSED
+waitForPageLoad,Firefox 63.0,,2018-12-03 10:06:07,2018-12-03 10:06:07,0.016s,PASSED
+maximizeWindow,Firefox 63.0,,2018-12-03 10:06:07,2018-12-03 10:06:07,0.064s,PASSED
+delay,Firefox 63.0,,2018-12-03 10:06:07,2018-12-03 10:06:08,1.007s,PASSED
+click,Firefox 63.0,,2018-12-03 10:06:08,2018-12-03 10:06:09,0.961s,PASSED
+delay,Firefox 63.0,,2018-12-03 10:06:09,2018-12-03 10:06:11,2.001s,PASSED
+setMaskedText,Firefox 63.0,,2018-12-03 10:06:11,2018-12-03 10:06:11,0.172s,PASSED
+delay,Firefox 63.0,,2018-12-03 10:06:11,2018-12-03 10:06:12,1.000s,PASSED
+click,Firefox 63.0,,2018-12-03 10:06:12,2018-12-03 10:06:12,0.292s,PASSED
+delay,Firefox 63.0,,2018-12-03 10:06:12,2018-12-03 10:06:15,3.002s,PASSED
+waitForElementVisible,Firefox 63.0,,2018-12-03 10:06:15,2018-12-03 10:06:15,0.061s,PASSED
+setMaskedText,Firefox 63.0,,2018-12-03 10:06:15,2018-12-03 10:06:15,0.085s,PASSED
+click,Firefox 63.0,,2018-12-03 10:06:15,2018-12-03 10:06:19,3.459s,PASSED
+click,Firefox 63.0,For Dev Environment Testing,2018-12-03 10:06:19,2018-12-03 10:06:20,1.329s,PASSED
+verifyElementText,Firefox 63.0,,2018-12-03 10:06:20,2018-12-03 10:06:20,0.037s,PASSED
+click,Firefox 63.0,,2018-12-03 10:06:20,2018-12-03 10:06:21,0.250s,PASSED
+delay,Firefox 63.0,,2018-12-03 10:06:21,2018-12-03 10:06:23,2.001s,PASSED
+click,Firefox 63.0,,2018-12-03 10:06:23,2018-12-03 10:06:23,0.814s,FAILED

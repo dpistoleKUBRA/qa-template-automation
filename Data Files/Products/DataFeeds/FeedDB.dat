@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>FeedDB</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>8053ac2f-6fa4-4ab5-a11f-60fd522ca278</dataFileGUID>
+   <dataSourceUrl>jdbc:mysql://stormcenter-db-qa.kubra.io:3306/feed</dataSourceUrl>
+   <driver>DBData</driver>
+   <isInternalPath>false</isInternalPath>
+   <password>eTllS2ZKMVRqNGMx</password>
+   <query>SELECT * FROM feed.job WHERE file_location LIKE '%_FILENAME_%' ORDER BY updated DESC;</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>feed</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

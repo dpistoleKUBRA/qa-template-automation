@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ApplyArrtibutesTableElements</name>
+   <tag></tag>
+   <elementGuidId>ae2b749d-e7a5-44a2-bbb3-a0afdd77e5b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='mappings-form-apply-attributes-table-elements-input']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='mappings-form-apply-attributes-table-elements-input']</value>
+   </webElementProperties>
+</WebElementEntity>

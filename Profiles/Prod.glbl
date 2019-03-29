@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Prod</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>QA URL</description>
+      <initValue>'https://kubra.io'</initValue>
+      <name>G_DefaultSiteURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>15</initValue>
+      <name>G_ShortTimeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>30</initValue>
+      <name>G_MediumTimeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>60</initValue>
+      <name>G_LongTimeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Map - 01-TestView - English</description>
+      <initValue>'https://kubra.io/stormcenter/views/3b5e14ec-aa4d-4f8a-a827-d27d703ae380'</initValue>
+      <name>G_QAMap_EN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Map - 01-TestView - Spanish</description>
+      <initValue>'https://kubra.io/stormcenter/views/3b5e14ec-aa4d-4f8a-a827-d27d703ae380?language=ES-ES'</initValue>
+      <name>G_QAMap_ES</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'75c95bab-e137-4b45-9682-659783b1b997'</initValue>
+      <name>ZipReportID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'3538060e-f511-4e26-8a05-99c1d1e8b713'</initValue>
+      <name>CountyReportID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'fd0821e8-0a15-43fc-a3d7-bd96b1127914'</initValue>
+      <name>AreaViewID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Products/StormCenterSwift/StormCenter/Login-Logout/SCAdminLoginNCIE'</initValue>
+      <name>G_LoginBrowserDefault</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SCAdminLoginNCIE'</initValue>
+      <name>G_LoginBrowserIE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SCAdminLoginNC'</initValue>
+      <name>G_LoginBrowserChromeFF</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1</initValue>
+      <name>G_ShortDelayTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>3</initValue>
+      <name>G_MediumDelayTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>G_LongDelayTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>02-NoCheckZoom for Clustering Map tests</description>
+      <initValue>'https://kubra.io/stormcenter/views/12c9daed-3c95-43ca-a1f9-65c042df5851'</initValue>
+      <name>G_QAClusterMap_EN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>02-NoCheckZoom</description>
+      <initValue>'61085506-8a9b-471e-8de4-7c0ee9be4d3b'</initValue>
+      <name>AreaViewIDNoZoom</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>false</initValue>
+      <name>integrateSlack</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Dev - Data Feeds App</description>
+      <initValue>'https://kubra.io/datafeeds/'</initValue>
+      <name>G_DefaultDataFeedAppURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>QA Test Utility Company</description>
+      <initValue>'QA Test Utility Company'</initValue>
+      <name>G_Tenant_QATestUtilityCo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>ABC Utility Company</description>
+      <initValue>'ABC Utility Company'</initValue>
+      <name>G_Tenant_ABCUtilityCo</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

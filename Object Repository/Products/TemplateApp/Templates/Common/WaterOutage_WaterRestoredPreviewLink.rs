@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WaterOutage_WaterRestoredPreviewLink</name>
+   <tag></tag>
+   <elementGuidId>fda4a739-c155-4d17-8bbb-aa08fd7f20da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id='blob-water-restored-njk']//span[@class='templates-list-preview'][contains(text(),'Preview')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@id='blob-water-restored-njk']//span[@class='templates-list-preview'][contains(text(),'Preview')]</value>
+   </webElementProperties>
+</WebElementEntity>

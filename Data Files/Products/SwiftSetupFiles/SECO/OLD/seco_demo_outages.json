@@ -1,0 +1,25 @@
+{
+  "outages": [
+    {
+      "id": "O-SECO01",
+      "outageConfirmed": true,
+      "crewStatus": "ENROUTE",
+      "crewIconIndicator": true,
+      "cause": "Branch On Line",
+      "comments": "Some Comment",
+      "etr": null,
+      "etrConfidence": null,
+      "startedAt": "2017-04-02T17:27:06.974Z",
+      "restoredAt": null,
+      "updatedAt": "2017-04-05T17:27:06.974Z",
+      "affectedDeliveryNodes": [
+        {
+          "dnId": "SECO01",
+          "confidence": "HIGH",
+          "callbackContact": "16235479403",
+          "reported": false
+        }
+      ]
+    }
+  ]
+}
